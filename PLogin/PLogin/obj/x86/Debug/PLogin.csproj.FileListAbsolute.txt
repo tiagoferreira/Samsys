@@ -23,3 +23,6 @@ C:\Users\Utilizador\Documents\Visual Studio 2010\Projects\PLogin\PLogin\obj\x86\
 C:\Users\Utilizador\Documents\Visual Studio 2010\Projects\PLogin\PLogin\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\pc\documents\visual studio 2010\Projects\PLogin\PLogin\obj\x86\Debug\PLogin.GerarView.resources
 C:\Users\Utilizador\Documents\Visual Studio 2010\Projects\PLogin\PLogin\bin\Debug\PLogin.exe.config
+C:\Users\Utilizador\Samsys\PLogin\PLogin\bin\Debug\PLogin.exe.config
+C:\Users\Utilizador\Samsys\PLogin\PLogin\obj\x86\Debug\PLogin.exe
+C:\Users\Utilizador\Samsys\PLogin\PLogin\obj\x86\Debug\PLogin.pdb
