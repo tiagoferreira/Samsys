@@ -5,3 +5,7 @@ git commit -m "mensagem teste para o tutorial"
 git push origin master
 
 Para receber: git pull origin master
+
+
+
+estranhissimo!!!!
